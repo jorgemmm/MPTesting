@@ -15,7 +15,7 @@ If you wanna use internet you'll need steam or EOS subsystem
 ## Installation
 1. You Clone the repository:
 ```bash
- git clone https://github.com/yourusername/yourproject.git
+ git clone https://github.com/jorgemmm/MPTesting.git
 ```
 but I think is better idea only copy the 3 method and 
 paste it in your character class.
